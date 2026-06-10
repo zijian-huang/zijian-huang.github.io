@@ -52,13 +52,29 @@ sections:
       title: Publications
       text: |-
         ### Selected Publications
+
         **Huang, Z.**, XXX, XXX.
         Test Paper 1.
         *Under Review*
+
         ---
+
         **Huang, Z.**, XXX, XXX.
         Test Paper 2.
         *In Preparation*
+
+        ### Other Publications
+
+        **Huang, Z.**, XXX, XXX.
+        Test Paper 3.
+        *Under Review*
+
+        ---
+
+        **Huang, Z.**, XXX, XXX.
+        Test Paper 4.
+        *In Preparation*
+
     design:
       columns: 1
 
@@ -74,24 +90,25 @@ sections:
 
         ### Functional Traits and Spectral Diversity
         Linking leaf traits, hyperspectral signatures, and ecological strategies across mangrove species.
+
     design:
       view: citation
 
-  - block: markdown
-    content:
-      title: Contact
-      text: |-
-        Email: huangzj79@mail.sysu.edu.cn
+  # - block: markdown
+  #   content:
+  #     title: Contact
+  #     text: |-
+  #       Email: huangzj79@mail.sysu.edu.cn
 
-        GitHub: github.com/zijian-huang
+  #       GitHub: github.com/zijian-huang
 
-        Google Scholar: scholar.google.com/citations?user=h1KBkF8AAAAJ
+  #       Google Scholar: scholar.google.com/citations?user=h1KBkF8AAAAJ
 
-        ORCID: orcid.org/0000-0002-8466-3885
+  #       ORCID: orcid.org/0000-0002-8466-3885
       
-    design:
-      view: citation
-      
+  #   design:
+  #     view: citation
+
   # - block: collection
   #   id: talks
   #   content:
