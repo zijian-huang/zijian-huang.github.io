@@ -5,8 +5,8 @@ name:
   display: Dr. Zijian Huang
   given: Zijian
   family: Huang
-  alternate: 黄子健  # Example: 王伟
-  pronunciation: Huang Zi Jian  # Example: Wáng Wěi
+  alternate: ""  # Example: 王伟
+  pronunciation: ""  # Example: Wáng Wěi
   pronouns: he/him
 postnominals:
   - PhD
@@ -43,14 +43,14 @@ interests:
   - Global Change
 
 education:
-  - degree: PhD in Ecology
+  - degree: PhD (Ecology)
     institution: Sun Yat-sen University (SYSU)
     start: 2017-09-01
     end: 2023-12-31
     summary: |
       Thesis on response differences in mangrove litterfall between fast- and slow-growing species.
       Paper published on *Frontiers in Forests and Global Change*.
-  - degree: BSc in Ecology
+  - degree: BSc (Ecology)
     institution: Sun Yat-sen University (SYSU)
     start: 2013-09-01
     end: 2017-06-30

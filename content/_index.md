@@ -33,6 +33,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
   - block: markdown
     content:
       title: Research
@@ -45,6 +46,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+
   - block: markdown
     content:
       title: Publications
@@ -59,6 +61,7 @@ sections:
         *In Preparation*
     design:
       columns: 1
+
   - block: markdown
     content:
       title: Current Projects
@@ -73,6 +76,7 @@ sections:
         Linking leaf traits, hyperspectral signatures, and ecological strategies across mangrove species.
     design:
       view: citation
+
   - block: markdown
     content:
       title: Contact
@@ -82,11 +86,12 @@ sections:
         GitHub: github.com/zijian-huang
 
         Google Scholar: scholar.google.com/citations?user=h1KBkF8AAAAJ
-        
+
         ORCID: orcid.org/0000-0002-8466-3885
       
     design:
       view: citation
+      
   # - block: collection
   #   id: talks
   #   content:
