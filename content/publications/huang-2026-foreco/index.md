@@ -68,7 +68,7 @@ tags:
 - Mangrove
 - Native species
 - Resilience strategies
-featured: false
+featured: true
 
 hugoblox:
   ids:
