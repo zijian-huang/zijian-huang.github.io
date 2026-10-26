@@ -12,13 +12,15 @@ postnominals:
   - PhD
 status:
   icon: "🌿"
-role: Researcher in Forest and Community Ecology
+role: Postdoctoral Researcher
 bio: |
-  I am a researcher in forest and community ecology at Sun Yat-sen University.
-  I study how the carbon economics of individual leaves, roots, and seedlings
-  scale up to shape the structure, function and resilience of coastal mangrove ecosystems,
-  using the acquisitive-conservative life-history axis as a unifying framework.
-  My work combines field surveys, terrestrial LiDAR, hyperspectral modelling and global data synthesis.
+  Why do trees build different canopy architectures, and how do these structures shape their ecological performance?
+
+  I am a forest and community ecologist at Sun Yat-sen University.
+  My research investigates the links between plant functional strategies, three-dimensional tree architecture,
+  and ecosystem carbon dynamics, with a focus on coastal mangroves.
+  Combining field ecology, terrestrial LiDAR, hyperspectral modelling, and data analyses,
+  I seek to understand how variation in plant structure and functional scales from individual trees to forest ecosystems.
 
 affiliations:
   - name: School of Life Sciences, Sun Yat-sen University
@@ -45,7 +47,7 @@ interests:
   - Disturbance, diversity and ecosystem stability
 
 education:
-  - degree:  Dr. rer. nat. Ecology
+  - degree:  Doctorate in Natural Sciences (Ecology)
     institution: Sun Yat-sen University
     start: 2017-09-01
     end: 2023-12-30
@@ -55,7 +57,7 @@ education:
     end: 2017-06-30
 
 experience:
-  - role: Post-doctoral Researcher
+  - role: Postdoctoral Researcher
     org: Sun Yat-sen University
     start: 2024-03-01
     summary: |

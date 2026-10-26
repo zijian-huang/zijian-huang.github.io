@@ -1,5 +1,5 @@
 ---
-title: "Canopy architecture from terrestrial LiDAR"
+title: "Vegetation structure and ecosystem carbon performance"
 date: 2026-09-03   # 日期只用于排序，越新越靠前
 summary: "Point-cloud analysis of canopy size, complexity and packing density across life history strategies."
 tags:

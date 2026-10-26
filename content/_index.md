@@ -47,7 +47,8 @@ sections:
         - Global data synthesis and meta-analysis
 
         **What I am looking for**
-        I am seeking a research position in a team, starting [month, year]. I would be glad to hear from groups working on blue carbon, plant functional traits, forest resilience, or vegetation remote sensing, and I am open to new collaborations of any kind. Please [email me](mailto:you@example.edu).
+
+        I am seeking a research position in a team, starting March, 2027. I would be glad to hear from groups working on blue carbon, plant functional traits, forest resilience, or vegetation remote sensing, and I am open to new collaborations of any kind. Please [email me](mailto:huangzj79@mail.sysu.edu.cn).
     design:
       columns: '1'
   - block: collection
@@ -60,7 +61,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Recent Publications
