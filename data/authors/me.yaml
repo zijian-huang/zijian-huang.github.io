@@ -6,7 +6,7 @@ name:
   given: Zijian
   family: Huang
   alternate: 黄子健
-  pronunciation: Huáng Zǐ Jiàn
+  # pronunciation: Huáng Zǐ Jiàn
   pronouns: he/him
 postnominals:
   - PhD

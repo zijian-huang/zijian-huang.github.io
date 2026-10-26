@@ -38,17 +38,50 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Mangrove forests store large amounts of carbon and face growing pressure from climate extremes, yet we still lack a clear picture of how the carbon budget of a single leaf or seedling translates into the behaviour of a whole forest. My research addresses this gap. I use the acquisitive–conservative spectrum of life-history strategies as a common thread, and follow it from leaf physiology to canopy architecture, community assembly and post-typhoon recovery.
+        Tree growth depends not only on carbon gain but also on how carbon is allocated to build and maintain the canopy. 
+        The three-dimensional arrangement of stems, branches and foliage shapes canopy architecture, 
+        influencing how trees occupy space, intercept light, acquire resources, and interact with their environment.
+        
+        I am interested in why trees build different canopy architectures, how these structures shape individual tree performance, 
+        and how their effects scale up to influence forest communities and ecosystem functioning.
+
+        **Plant Strategies and Crown Architecture**
+        How do plant functional strategies and environmental conditioins shape tree crown architecture?
+
+        We are using terrestrial laser scanning (TLS) and individual-tree reconstruction in coastal mangrove forests 
+        to investigate differences in canopy architecture among trees with contrasting resource-use strategies.
+        The ongoing work aims to reveal how variation in plant strategies is reflected in the three-dimensional organization of tree canopies.
+
+        **Crown Architecture and Tree Performance**
+        How does crown architecture shape resource acquisition, tree growth, and survival?
+
+        Addressing this question requires linking three-dimensional canopy structure with field measurements of tree performance.
+        By integrating TLS-based reconstructions with field observations and ecological modeling, 
+        I aim to investigate how architectural variation translates into differences in resource acquisition,
+        growth, and ultimately tree performance.
+
+        **Crown Architecture and Ecosystem Functioning**
+        How do tree crown architectures influence forest regeneration, community dynamics, and ecosystem productivity?
+
+        We have initiated a preliminary study examining how species combination relates to ecosystem resistance and resilience 
+        following cyclone disturbance in mangrove forests. 
+        Building on this work, I aim to investigate how species interactions and variation in tree architecture jointly shape
+        community dynamics and ecosystem responses to environmental disturbances.
+
 
         **What I bring**
-        - Field data spanning long time series, from litterfall records to seedling experiments
-        - Terrestrial LiDAR, hyperspectral and satellite remote sensing
-        - Statistical modelling, including Bayesian structural equation models and machine learning
-        - Global data synthesis and meta-analysis
+        - Long-term ecological datasets, including litterfall records and seedling experiments.
+        - Terrestrial laser scanning, hyperspectral modelling, and satellite remote sensing.
+        - Statistical modelling, including Bayesian structural equation modeling and machine learning.
+        - Global data synthesis and meta-analysis.
+
 
         **What I am looking for**
-
-        I am seeking a research position in a team, starting March, 2027. I would be glad to hear from groups working on blue carbon, plant functional traits, forest resilience, or vegetation remote sensing, and I am open to new collaborations of any kind. Please [email me](mailto:huangzj79@mail.sysu.edu.cn).
+        I am seeking a research position starting March 2027. 
+        I would welcome opportunities to join research groups working on blue carbon, plant functional traits, forest resilience, or vegetation remote sensing, 
+        and I am open to collaborations that extend beyond these areas. 
+        
+        If my research interests align with yours, Please [get in touch](mailto:huangzj79@mail.sysu.edu.cn).
     design:
       columns: '1'
   - block: collection
